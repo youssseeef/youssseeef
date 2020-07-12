@@ -1,8 +1,9 @@
 ### 🚀🚀🚀🚀🚀 Hi there! Welcome to my Github!
 
-I started this repo as one of my side projects ✨ and I'm definitely gonna work on it after I find a cool idea for this. Sounds familiar? Hahaha ;)
+![](rick-and-morty-gif.gif)
 
-Let's get back to the early 2000s. May I interest you in a visitor counter?
+I started this repo as one of my side projects ✨ and I'm definitely gonna work on it after I find a cooler idea for this. Sounds familiar? Hahaha ;)
+Today is the 31st of December, 1999. The time is 23:50. You have 10 minutes to fix the Y2K bug.
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fyoussseeef)
 <!--
