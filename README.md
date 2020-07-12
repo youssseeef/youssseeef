@@ -1,6 +1,6 @@
 ### 🚀🚀🚀🚀🚀 Hi there! Welcome to my Github!
 
-![](rick-and-morty-gif.gif)
+![](https://github.com/youssseeef/youssseeef/blob/master/rick-and-morty-gif.gif)
 
 I started this repo as one of my side projects ✨ and I'm definitely gonna work on it after I find a cooler idea for this. Sounds familiar? Hahaha ;)
 Today is the 31st of December, 1999. The time is 23:50. You have 10 minutes to fix the Y2K bug.
