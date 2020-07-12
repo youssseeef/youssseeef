@@ -1,5 +1,10 @@
-### Hi there 👋
+### 🚀🚀🚀🚀🚀 Hi there! Welcome to my Github!
 
+I started this repo as one of my side projects ✨ and I'm definitely gonna work on it after I find a cool idea for this. Sounds familiar? Hahaha ;)
+
+Let's get back to the early 2000s. May I interest you in a visitor counter?
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fyoussseeef)
 <!--
 **youssseeef/youssseeef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
