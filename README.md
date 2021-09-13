@@ -6,7 +6,7 @@ I started this repo as one of my side projects ✨ and I'm definitely gonna work
 
 Today is the 31st of December, 1999. The time is 23:50. You have 10 minutes to fix the Y2K bug.
 
-Here is a visitor counter to get back in time ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fyoussseeef)
+Here is a visitor counter to get back in time ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fyoussseeef) as expected, these don't work anymore but it's honest work...
 <!--
 **youssseeef/youssseeef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
